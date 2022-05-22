@@ -1,0 +1,17 @@
+nav ul {
+  display: flex;
+  background-color: rgb(225, 80, 12);
+  margin-block-start: 0;
+  padding: 16px;
+  box-shadow: 0 2px 4px rgba(203, 176, 24, 0.755);
+}
+
+nav ul li {
+  list-style-type: none;
+  margin-right: 16px;
+}
+div#root{
+  background-color: bisque;
+  height:1000px;
+}
+

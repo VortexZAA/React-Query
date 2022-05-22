@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Inner Engineering",
+      "author": "Sadhguru"
+    },
+    {
+      "id": 2,
+      "name": "Adiyogi",
+      "author": "Sadhguru"
+    },
+    {
+      "id": 3,
+      "name": "Think Like A Monk",
+      "author": "Jay Shetty"
+    },
+    {
+      "name": "Reflection",
+      "author": "Swamiji",
+      "id": 4
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Yudhajit Adhikary"
+    },
+    {
+      "id": 2,
+      "name": "Koyena Adhikary"
+    },
+    {
+      "id": 3,
+      "name": "Kabita Adhikary"
+    }
+  ],
+  "users": [
+    {
+      "id": "yudhajitadhikary@example.com",
+      "channelId": "Medium"
+    }
+  ],
+  "channels": [
+    {
+      "id": "Medium",
+      "courses": [
+        "react",
+        "vue",
+        "next"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
